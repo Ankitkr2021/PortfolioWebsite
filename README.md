@@ -8,13 +8,6 @@ HTML5
 CSS3
 JavaScript
 
-# How to Run the Website
-To run the website locally, follow these steps:
-
-Clone the repository: git clone https://github.com/Ankitkr2021/Portfolio-Website.git
-Navigate to the project directory: cd your-portfolio
-Open index.html in your web browser
-
 # Customizing the Website
 To customize the website for your own use, follow these steps:
 
